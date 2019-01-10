@@ -61,7 +61,7 @@ class App extends Component {
       <div className="App">
         <div className="columns">
         {/*<Button variant="contained" onClick={this.test} >
-          Defaultss
+          Default
     </Button>*/}
           <FormControl required component="fieldset" >
             <FormLabel component="legend">Pick columns</FormLabel>
